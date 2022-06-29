@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pegasus7d
-- 👀 I’m interested in competitive programming, web-development and data science
-- 🌱 I’m currently learning web-development and competitive programming
+- 👀 I’m interested in dsa, web-development and data science
+- 🌱 I’m currently learning web-development and dsa
 - 💞️ I’m looking to collaborate on making some new web development projects
 - 📫 How to reach me (via email debayanbiswas1111@gmail.com)
 
