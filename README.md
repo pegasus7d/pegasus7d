@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debayan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe8%2Ff4%2F53%2Fe8f453469a3ec97ecd354df465d73913.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Famp%2Fpin%2Flottieanimationchainstarters-in-2021--59813501292017265%2F&tbnid=35X6L1D39_KDvM&vet=12ahUKEwirioeTzI78AhXoi9gFHZZiDQEQMygsegUIARD2Ag..i&docid=M8f65UlaPK-91M&w=500&h=500&q=animated%20coding%20gif&ved=2ahUKEwirioeTzI78AhXoi9gFHZZiDQEQMygsegUIARD2Ag">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pegasus7d&label=Profile%20views&color=0e75b6&style=flat" alt="pegasus7d" /> </p>
 
 - 🔭 I’m currently working on **an UnderGraduate Student at IIT Kharagpur**
