@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pegasus7d&label=Profile%20views&color=0e75b6&style=flat" alt="pegasus7d" /> </p>
 
-- 🔭 I’m currently working on **an UnderGraduate Student at IIT Kharagpur**
+- 🔭 I’m currently an UnderGraduate Student at IIT Kharagpur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
