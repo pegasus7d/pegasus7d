@@ -1,20 +1,84 @@
-<h1 align="center">Hi 👋, I'm Debayan</h1>
-<h3 align="center">A passionate  developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pegasus7d&label=Profile%20views&color=0e75b6&style=flat" alt="pegasus7d" /> </p>
-
-- 🔭 I’m currently an UnderGraduate Student at IIT Kharagpur**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/debayan.biswas.9638/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/debayan.biswas.9638/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/pegasus7d">
+    <img src="https://github-readme-stats.vercel.app/api?username=pegasus7d&show_icons=true&theme=onedark&count_private=true&hide_border=true" alt="Debayan's GitHub Stats" />
+  </a>
+  <a href="https://github.com/pegasus7d">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus7d&theme=dark&hide_border=true" alt="Streak Stats" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #42a5f5, #478ed1); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm Debayan
+  </span>
+</h1>
+<p align="center"><em>A passionate <strong>Software Engineer</strong> from India, crafting scalable solutions one line at a time.</em></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pegasus7d&show_icons=true&locale=en&layout=compact" alt="pegasus7d" /></p>
+<p align="center">
+  <a href="#about-me"><strong>About Me</strong></a> •
+  <a href="#connect"><strong>Connect</strong></a> •
+  <a href="#skills"><strong>Skills</strong></a> •
+  <a href="#stats"><strong>Stats</strong></a>
+</p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pegasus7d&show_icons=true&locale=en" alt="pegasus7d" /></p>
+---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus7d&" alt="pegasus7d" /></p>
+## 💼 About Me
+
+<p align="center">
+  🔭 I’m currently a Software Engineer at **Cimba**<br>
+  🌱 I’m exploring advanced React and Node.js ecosystems<br>
+  📝 I write technical articles on Medium and Dev.to<br>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/debayan-biswas" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/pegasus7d" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com/debayan.biswas.9638" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:debayan@example.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus7d&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300" alt="Coding Gif" />
+</p>
