@@ -96,7 +96,9 @@ $ intentflow "organize my Downloads..."
 <td width="50%" valign="top">
 
 ### 🌐 Software Engineer Intern
-[![OneLot](https://img.shields.io/badge/OneLot-000000?style=for-the-badge&logo=github&logoColor=white)](https://onelot.com)  
+<p align="center">
+  <a href="https://onelot.com"><img src="assets/onelot-logo.png" alt="OneLot" width="120" /></a>
+</p>
 📍 Manila, Philippines | 📅 Dec 2023 - Apr 2024
 
 **Tech Stack:** `Next.js` `Next-Auth` `React` `Slack API` `Node.js`
