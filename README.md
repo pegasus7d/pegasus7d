@@ -64,8 +64,11 @@ $ intentflow "organize my Downloads..."
 <td width="50%" valign="top">
 
 ### 🚀 Software Engineer
-<p>
+<p align="center">
   <a href="https://cimba.ai"><img src="assets/cimba-logo.png" alt="Cimba.ai" width="120" /></a>
+</p>
+<p align="center">
+  <img src="assets/ittiam.gif" alt="Building at Cimba" width="200" />
 </p>
 📍 Kolkata | 📅 May 2025 - Present
 
@@ -81,7 +84,12 @@ $ intentflow "organize my Downloads..."
 <td width="50%" valign="top">
 
 ### 💻 Software Engineer Intern
-[![Ittiam Systems](https://img.shields.io/badge/Ittiam_Systems-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.ittiam.com)  
+<p align="center">
+  <a href="https://www.ittiam.com"><img src="assets/ittiam-logo.png" alt="Ittiam" width="120" /></a>
+</p>
+<p align="center">
+  <img src="assets/ittiam.gif" alt="Ittiam" width="200" />
+</p>
 📍 Bangalore | 📅 Jun 2024 - Jul 2024
 
 **Tech Stack:** `Docker` `Kubernetes` `Minikube` `FFmpeg` `Redis` `BullMQ` `KEDA`
