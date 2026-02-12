@@ -52,7 +52,7 @@
 **Tech Stack:** `Golang` (Frontend & Backend)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=3200&color=00D9FF&center=true&vCenter=true&width=400&lines=$+intentflow+organize+Downloads+email+summary;Safe+deterministic+local+workflow;Terminal-first+%E2%80%A2+No+agents+%E2%80%A2+Fully+local" alt="IntentFlow terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=3200&color=00D9FF&center=true&vCenter=true&width=400&lines=$+intentflow+organize+Downloads+email+summary;Safe+deterministic+local+workflow;Terminal-first" alt="IntentFlow terminal" />
 </div>
 
 ```bash
