@@ -38,15 +38,74 @@
 
 ---
 
-## 📈 Quick Stats
+## 🚀 Featured Project & 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Featured Project: IntentFlow
+[![IntentFlow](https://img.shields.io/badge/IntentFlow-Terminal_Tool-00D9FF?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/pegasus7d/intentflow)
+
+**Natural language in → workflow out. One command, fully local, fully yours.**
+
+**Tech Stack:** `Golang` (Frontend & Backend)
 
 <div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/pegasus7d?label=Followers&style=for-the-badge&color=blue&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/pegasus7d?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/pegasus7d?label=Total%20Forks&style=for-the-badge&color=green&logo=github)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=3200&color=00D9FF&center=true&vCenter=true&width=400&lines=$+intentflow+organize+Downloads+email+summary;Safe+deterministic+local+workflow;Terminal-first+%E2%80%A2+No+agents+%E2%80%A2+Fully+local" alt="IntentFlow terminal" />
 </div>
+
+```bash
+$ intentflow "organize my Downloads..."
+→ Safe, deterministic, fully local
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Software Engineer
+<p>
+  <a href="https://cimba.ai"><img src="assets/cimba-logo.png" alt="Cimba.ai" width="120" /></a>
+</p>
+📍 Kolkata | 📅 May 2025 - Present
+
+**Tech Stack:** `Scala` `Python` `PostgreSQL` `Redis` `DuckDB` `DataDog`
+
+- ⚡ Backend latency logging pipeline (Scala, Python, PostgreSQL, DataDog)
+- 🚀 Redis static data caching → **30%** performance improvement
+- 🔗 GoogleSheetsConnector with DuckDB for end-to-end sync pipeline
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Engineer Intern
+[![Ittiam Systems](https://img.shields.io/badge/Ittiam_Systems-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.ittiam.com)  
+📍 Bangalore | 📅 Jun 2024 - Jul 2024
+
+**Tech Stack:** `Docker` `Kubernetes` `Minikube` `FFmpeg` `Redis` `BullMQ` `KEDA`
+
+- 🎬 Audio-video sync with ffmpeg split/stitch mechanism
+- ☸️ Minikube + Dashboard, Ingress, Metrics Server, Registry
+- 📦 Video encoding with Redis & BullMQ for scalable task distribution
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Software Engineer Intern
+[![OneLot](https://img.shields.io/badge/OneLot-000000?style=for-the-badge&logo=github&logoColor=white)](https://onelot.com)  
+📍 Manila, Philippines | 📅 Dec 2023 - Apr 2024
+
+**Tech Stack:** `Next.js` `Next-Auth` `React` `Slack API` `Node.js`
+
+- 🔐 Next-Auth authentication → **30%** faster login, stronger security
+- 💬 Slack API integration → **15%** collaboration, **25%** SEO gain
+- 🏗️ UI/architecture redesign, server/client component segregation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,146 +150,6 @@
 ![KEDA](https://img.shields.io/badge/-KEDA-000?&logo=Kubernetes&logoColor=326CE5)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pegasus7d&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=pegasus7d&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus7d&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
-
-</div>
-
----
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pegasus7d&theme=redical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 🚀 Featured Project & 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Featured Project: IntentFlow
-[![IntentFlow](https://img.shields.io/badge/IntentFlow-Terminal_Tool-00D9FF?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/pegasus7d/intentflow)
-
-**Natural language in → workflow out. One command, fully local, fully yours.**
-
-**Tech Stack:** `Golang` (Frontend & Backend)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=3200&color=00D9FF&center=true&vCenter=true&width=400&lines=$+intentflow+organize+Downloads+email+summary;Safe+deterministic+local+workflow;Terminal-first+%E2%80%A2+No+agents+%E2%80%A2+Fully+local" alt="IntentFlow terminal" />
-</div>
-
-```bash
-$ intentflow "organize my Downloads..."
-→ Safe, deterministic, fully local
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Software Engineer
-<img src="assets/cimba-logo.png" alt="Cimba.ai" width="120" />  
-[![Cimba.ai](https://img.shields.io/badge/Cimba.ai-000000?style=for-the-badge&logo=github&logoColor=white)](https://cimba.ai)  
-📍 Kolkata | 📅 May 2025 - Present
-
-**Tech Stack:** `Scala` `Python` `PostgreSQL` `Redis` `DuckDB` `DataDog`
-
-- ⚡ Backend latency logging pipeline (Scala, Python, PostgreSQL, DataDog)
-- 🚀 Redis static data caching → **30%** performance improvement
-- 🔗 GoogleSheetsConnector with DuckDB for end-to-end sync pipeline
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineer Intern
-[![Ittiam Systems](https://img.shields.io/badge/Ittiam_Systems-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.ittiam.com)  
-📍 Bangalore | 📅 Jun 2024 - Jul 2024
-
-**Tech Stack:** `Docker` `Kubernetes` `Minikube` `FFmpeg` `Redis` `BullMQ` `KEDA`
-
-- 🎬 Audio-video sync with ffmpeg split/stitch mechanism
-- ☸️ Minikube + Dashboard, Ingress, Metrics Server, Registry
-- 📦 Video encoding with Redis & BullMQ for scalable task distribution
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Software Engineer Intern
-[![OneLot](https://img.shields.io/badge/OneLot-000000?style=for-the-badge&logo=github&logoColor=white)](https://onelot.com)  
-📍 Manila, Philippines | 📅 Dec 2023 - Apr 2024
-
-**Tech Stack:** `Next.js` `Next-Auth` `React` `Slack API` `Node.js`
-
-- 🔐 Next-Auth authentication → **30%** faster login, stronger security
-- 💬 Slack API integration → **15%** collaboration, **25%** SEO gain
-- 🏗️ UI/architecture redesign, server/client component segregation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 🎓 Bachelors in Physics
-[![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-FF6F00?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.iitkgp.ac.in)  
-📍 Kharagpur, West Bengal | 📅 Graduated Apr 2025
-
-**Indian Institute of Technology, Kharagpur**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Leadership Experience
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 👨‍💼 Web Head
-[![Alumni Cell IIT KGP](https://img.shields.io/badge/Alumni_Cell_IIT_KGP-FF6F00?style=for-the-badge&logo=users&logoColor=white)](https://www.iitkgp.ac.in)  
-📍 IIT Kharagpur | 📅 Aug 2023 - Aug 2024
-
-- 🎉 Organized 20th Annual Alumni Meet with **250+ alumni** participation (**20%** increase)
-- 🌐 Created Social Networking Portal (Yearbook) with **3000+ active users**
-- ✨ Features: Likes, Comments, Polls, Articles, Testimonials
-
-</td>
-</tr>
-</table>
 
 ---
 
